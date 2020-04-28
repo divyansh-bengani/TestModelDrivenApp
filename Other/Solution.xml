@@ -6,7 +6,7 @@
       <LocalizedName description="Test Model Driven App" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.2</Version>
+    <Version>1.0.0.3</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>Crfc0e6</UniqueName>
@@ -86,15 +86,15 @@
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>
-        <Required key="0" type="1" schemaName="sample_idea" displayName="Idea" solution="InnovationHub (0.0.0.1)" />
+        <Required key="0" type="1" schemaName="sample_challenge" displayName="Challenge" solution="InnovationHub (0.0.0.1)" />
         <Dependent key="1" type="80" schemaName="cr137_CustomerManagerTest" displayName="Customer Manager Test" />
       </MissingDependency>
       <MissingDependency>
-        <Required key="2" type="1" schemaName="sample_challenge" displayName="Challenge" solution="InnovationHub (0.0.0.1)" />
+        <Required key="2" type="1" schemaName="sample_product" displayName="Product" solution="AssetCheckout (0.0.0.1)" />
         <Dependent key="1" type="80" schemaName="cr137_CustomerManagerTest" displayName="Customer Manager Test" />
       </MissingDependency>
       <MissingDependency>
-        <Required key="3" type="1" schemaName="sample_product" displayName="Product" solution="AssetCheckout (0.0.0.1)" />
+        <Required key="3" type="1" schemaName="sample_idea" displayName="Idea" solution="InnovationHub (0.0.0.1)" />
         <Dependent key="1" type="80" schemaName="cr137_CustomerManagerTest" displayName="Customer Manager Test" />
       </MissingDependency>
       <MissingDependency>
